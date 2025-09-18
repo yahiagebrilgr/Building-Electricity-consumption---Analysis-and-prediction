@@ -1,6 +1,6 @@
 ## Predicting Building Electricity Consumption
 # Introduction
-After exploring AI through projects like the AI Trading Bot and delving into sentiment analysis, I wanted to tackle a core data science problem. This project moves away from financial markets and focuses on a practical, real-world challenge. The goal is to analyse building energy data, uncover the main factors driving electricity use, and build an accurate predictive model. This work showcases a complete data analysis workflow from cleaning the data to developing and improving a machine learning model.
+After exploring AI through projects like the AI Trading Bot that I uploaded a few days ago and delving into sentiment analysis earlier, I wanted to tackle a core engineering and data science problem. This project moves away from financial markets and focuses on a practical, real-world challenge. The goal is to analyse building energy data, uncover the main factors driving electricity use, and build an accurate predictive model. This work showcases a complete data analysis workflow from cleaning the data to developing and improving a machine learning model.
 
 # Project Objectives
 The main goals for this project were straightforward.
